@@ -8,17 +8,13 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "*")
 public class MovieController {
 
     @Autowired
     MovieRepository movieRepository;
 
-    @RequestMapping("/moviesolo")
-    public Movie getMovie(){
-        Movie myMovie = new Movie("Sex on the head", "Totote","Red doesn't want", "okok");
-        return myMovie;
-    }
-
+    @CrossOrigin
     @GetMapping("/")
     public String accueil(){
 

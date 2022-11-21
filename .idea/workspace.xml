@@ -5,16 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59326726-ff5d-4034-9bcd-29c826f71ad4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Front/sos_cinoche/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front/sos_cinoche/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/sos_cinoche/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/sos_cinoche/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/sc/screen-capture-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/sc/screen-capture-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/sc/screen-capture-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/sc/screen-capture-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/src/main/java/com/wildcodeschool/rest_quest/RestQuestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/src/main/java/com/wildcodeschool/rest_quest/controller/MovieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/src/main/java/com/wildcodeschool/rest_quest/entity/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/src/main/java/com/wildcodeschool/rest_quest/repository/MovieRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/src/test/java/com/wildcodeschool/rest_quest/RestQuestApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back/valeurs.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/sos_cinoche" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Front/sos_cinoche" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -44,21 +72,23 @@
     </option>
   </component>
   <component name="ProjectId" id="2HfWYdCLhgGsof93PxWWMJaxIUp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/9301738K/Documents/Projets/SOS_cinoche",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/9301738K/Documents/Projets/SOS_cinoche&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
